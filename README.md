@@ -1,6 +1,6 @@
 # Brazilian Hive 
 
-### Brazilian channels Vlads Map
+### Brazilian channels Vlads Map (you can click on them to check)
 |Channel|Youtube| Lbry Channel| Inviter | About
 |--|--|--|--|--|
 |VladTV|LbryExclusive|[521](https://open.lbry.com/@vlad:e?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|--------|Misc
