@@ -70,10 +70,10 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 		2.2.1) Language 
 	
 									Desktop
-	![](https://i.ibb.co/FV2JBct/Desktop.png)
+![](https://i.ibb.co/FV2JBct/Desktop.png)
 	
 									Mobile
-	![](https://i.ibb.co/FV2JBct/Desktop.png)
+![](https://i.ibb.co/FV2JBct/Desktop.png)
 
 I am translating most part of it, but a team is been put together by @WHO  
 	
