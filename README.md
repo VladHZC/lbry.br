@@ -37,7 +37,7 @@ PS2: Of course there is a lot more, those are related to me in someway so I try 
 ----
 ## Brazil [Key] Channels to Reach
 1.[Porta dos Fundos](https://www.youtube.com/user/portadosfundos)
-2.[Felipe Neto]((https://www.youtube.com/user/felipeneto)) 
+2.[Felipe Neto](https://www.youtube.com/user/felipeneto) 
 
 Those channels have all the necessary to lead the future of LBRY in Brazil, they have huge audience because of the humorist skills they have, but they get issues in Brazil, YouTube and even Netflix because of religious jokes or important political jokes that everyone should listen to, they use the tunel of the comedy to make political activism. 
 
