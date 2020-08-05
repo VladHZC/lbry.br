@@ -54,7 +54,7 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 
 **1) Brazilian Impression of LBRY**
 
-	1.1) Youtube is flooded with bad videos about Lbry when you search about it from Brazil, which makes LBRY known as an easy money platform.
+1.1) Youtube is flooded with bad videos about Lbry when you search about it from Brazil, which makes LBRY known as an easy money platform.
 	
 ![](https://i.ibb.co/6FXzNPk/youtube1.png)
 ![](https://i.ibb.co/N6dBCrw/youtube2.png)
@@ -77,7 +77,7 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 
 I am translating most part of it, but a team is been put together by @WHO  
 	
-		2.2.2) FAQ (BR) 
+	2.2.2) FAQ (BR) 
 	
 	
 ![](https://i.ibb.co/KVgNBGn/Faq.png)
