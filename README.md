@@ -93,3 +93,11 @@ When I first came to Jeremy to talk about Brazil and the possibility of LBRY.BR 
 ## LBRYBR discord Server 
 
 - Under construction (really hard to do by myself)
+
+## Perspective 
+
+# Brazilians are more into in cryptocurrency and blockchain now that our currency sucks / Crypto Exchanges are growing
+![](https://i.ibb.co/tLvL8Kc/braziliancrypto.png)
+
+# The Main brazilian Exchange LBC could reach is called mercadobitcoin.com.br
+![](https://i.ibb.co/rGXz3PT/exchange.png)
