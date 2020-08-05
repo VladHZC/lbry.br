@@ -52,7 +52,7 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
  ---
 ## Br issues to pay attention 
 
-1) Brazilian Impression of LBRY
+**1) Brazilian Impression of LBRY**
 
 	1.1) Youtube is flooded with bad videos about Lbry when you search about it from Brazil, which makes LBRY known as an easy money platform.
 	
@@ -61,13 +61,13 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 ![](https://i.ibb.co/m5h3xVX/youtube3.png)
 ![](https://i.ibb.co/Dbkp8fx/youtube4.png)
 
-2) It's hard to Brazilian Creators create public in LBRY
+**2) It's hard to Brazilian Creators create public in LBRY**
 	
-	1.1) Rewards Validation -> Can't count on rewards program because just a few brazilians uses GitHub or Linkedin and some became pissed off with the celphone verification not working before understanding why is not working. Julie is trying to understand how big is the BR demand.  
+	2.1) Rewards Validation -> Can't count on rewards program because just a few brazilians uses GitHub or Linkedin and some became pissed off with the celphone verification not working before understanding why is not working. Julie is trying to understand how big is the BR demand.  
 			
-	1.2) Accessibility :
+	2.2) Accessibility :
 	
-		1.2.1) Language 
+		2.2.1) Language 
 	
 									Desktop
 	![](https://i.ibb.co/FV2JBct/Desktop.png)
@@ -77,7 +77,7 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 
 I am translating most part of it, but a team is been put together by @WHO  
 	
-		1.2.2) FAQ (BR) 
+		2.2.2) FAQ (BR) 
 	
 	
 ![](https://i.ibb.co/KVgNBGn/Faq.png)
