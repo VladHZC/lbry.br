@@ -11,7 +11,7 @@
 |DiegoCueca|[281000](https://open.lbry.com/@insanosproducoes:2?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|[19](https://open.lbry.com/@diegocuecainsanos:7?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Adventure|
 |QXO|[56200](https://www.youtube.com/channel/UCeKcWQtHEFRwPyiZfAL-rFA)|[20](https://open.lbry.com/@qxo:3?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad| Music
 |MundoMolusco|[74000](https://www.youtube.com/user/MundoMolusco)|[26](https://open.lbry.com/@mundomolusco:8?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Freespeech|
-|Bolovo|[67600](https://open.lbry.com/@bolovo:4?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|[87](https://open.lbry.com/@bolovo:4?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Adventure
+|**Bolovo**|[67600](https://open.lbry.com/@bolovo:4?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|[87](https://open.lbry.com/@bolovo:4?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Adventure
 |GabiDonabella|[7440](https://www.youtube.com/channel/UC-Ja4JDUVwZtqOMyC9-GrBQ)|[16](https://open.lbry.com/@gabidonabella:f?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Fashion|
 |Grafiteria*|[26000](https://www.youtube.com/channel/UCZzkC1y9pVoXNy6tffGt94Q)|[33](https://open.lbry.com/@graffiteria:5?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Art
 |Umdois*|[901000](https://www.youtube.com/user/umdoiscanal)|[20](https://open.lbry.com/@canalumdois:f?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Cannabis
@@ -31,8 +31,9 @@
 |Unk.Pleasures|LbryExclusive|[11](https://open.lbry.com/@unknownpleasures:e?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|Vlad|Blog
 |Guanumby|No Sync|[30](https://open.lbry.com/@GuanumbyGameNet:8?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|--------|Gaming
 
-PS.: The channels marked with (*) were the last youtube syncs I did
+PS: The channels marked with (*) were the last youtube syncs I did
 PS2: Of course there is a lot more, those are related to me in someway so I try to keep track, some of then are more active than other, and a few have serious difficult adapting to LBRY and I try to help as much as I can
+PS3: **@bolovo** is the creator of the week chosen by the creators council
 
 ----
 ## Brazil [Key] Channels to Reach
