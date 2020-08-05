@@ -62,19 +62,19 @@ One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian versio
 
 2) It's hard to Brazilian Creators create public in LBRY
 	
-	1.1) Rewards Validation -> Can't count on rewards program because just a few brazilians uses GitHub or Linkedin and some became pissed off with the celphone verification not working before understanding why is not working.   
+	1.1) Rewards Validation -> Can't count on rewards program because just a few brazilians uses GitHub or Linkedin and some became pissed off with the celphone verification not working before understanding why is not working. Julie is trying to understand how big is the BR demand.  
 			
 	1.2) Accessibility :
 	
 		1.2.1) Language 
 	
-											Desktop
+									Desktop
 	![](https://i.ibb.co/FV2JBct/Desktop.png)
 	
-											Mobile
+									Mobile
 	![](https://i.ibb.co/FV2JBct/Desktop.png)
 
-I am translating most part of it, but a team is been put together buy @WHO 
+I am translating most part of it, but a team is been put together by @WHO  
 	
 		1.2.2) FAQ (BR) 
 	
