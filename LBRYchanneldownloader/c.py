@@ -3,10 +3,7 @@
 import requests
 import sys
 import time
-import os
 
-lbrynet = f'lbrynet.exe start'
-os.system(lbrynet)
 
 # LBRY JSON RPC
 HOST = "http://localhost:5279"
