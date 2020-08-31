@@ -37,19 +37,6 @@ PS: The channels marked with (*) were the last youtube syncs I did
 PS2: Of course there is a lot more, those are related to me in someway so I try to keep track, some of then are more active than other, and a few have serious difficult adapting to LBRY and I try to help as much as I can
 PS3: **@bolovo** is the creator of the week chosen by the creators council
 
-----
-## Brazil [Key] Channels to Reach
-1.[Porta dos Fundos](https://www.youtube.com/user/portadosfundos)
-2.[Felipe Neto](https://www.youtube.com/user/felipeneto) 
-
-Those channels have all the necessary to lead the future of LBRY in Brazil, they have huge audience because of the humorist skills they have, but they get issues in Brazil, YouTube and even Netflix because of religious jokes or important political jokes that everyone should listen to, they use the tunel of the comedy to make political activism. 
-
-Felipe Neto is being chased by the president and the president fans (basically facist people) 
-Porta dos Funds has been banned of Netflix Brazil Because of polemical Religious content
-
-They are hard to reach, but they carry their public are very solid and will follow then everywhere. 
-
-One of the Porta dos Fundos guys (Gregório Duvivier), does the Brazilian version of John Olivers Show in HBO brasil which is even more relevant to BR politics than Last Week Tonight from HBO
  
  ---
 ## Br issues to pay attention 
