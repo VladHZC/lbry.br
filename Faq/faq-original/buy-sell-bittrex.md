@@ -1,34 +1,34 @@
 ---
-title: Buying and selling LBC on exchanges
-category: getstarted
+title: Compra e venda de LBC em Exchanges
+category: Começando
 ---
-This guide is meant for informational purposes only and is not financial advice. 
+Este guia destina-se apenas a fins informativos e não se trata de aconselhamento financeiro. 
 
-Currently, in order to exchange LBC for traditional currencies (and vice versa), you'll need to use [cryptocurrency exchanges](/faq/exchanges). LBRY is actively working on ways to make this easier right inside our applications, but we don't have an ETA on when this would be available. 
+Atualmente, para trocar o LBC por moedas tradicionais (e vice-versa), você precisará usar [Exchanges de cryptomoeda](https://open.lbry.com/@LBRYBR:d/2.7.Compra-e-venda-de-LBC-nas-exchanges:2?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk). A LBRY está trabalhando ativamente em maneiras de tornar isso mais fácil dentro de nossos aplicativos, mas não temos um ETA ativado quando estará disponível.
 
-Some exchanges have a US Dollar (USD/USDT) market, whereas others only trade LBC against Bitcoin (BTC). This means you'd need to go through BTC first before being able to obtain traditional currencies like USD. USDT is the equivalent of a digital dollar and makes it easier to exchange LBC.
+Algumas exchanges têm um mercado de dólar americano (USD / USDT), enquanto outras negociam apenas LBC contra Bitcoin (BTC). Isso significa que você precisa primeiro passar pelo BTC antes de obter moedas tradicionais como o dólar americano. USDT é o equivalente a um dólar digital e facilita a troca de LBC.
 
-These steps below are an example of how to buy and sell LBC on Bittrex which has both USDT and BTC market pairs, but the mechanism of using order books will be similar on other exchanges.
+As etapas abaixo são um exemplo de como comprar e vender LBC na Bittrex, que tem pares de mercado USDT e BTC, mas o mecanismo de uso de livros de ordens será semelhante em outras bolsas.
 
-If you are acquiring LBC, you'll need to have BTC deposited into your account, link a bank account to deposit USD, or use a credit card (not available in all locations). If you are selling LBC, you'll need to [deposit the LBC to your Bittrex account first](#Withdrawing-LBC-to-Bittrex). 
+Se você estiver comprando LBC, precisará ter o BTC ou USDT depositado em sua conta, vincular uma conta bancária para depositar em dólares americanos ou usar um cartão de crédito (não disponível em todos os locais). Se você está vendendo LBC, você precisará [depositar o LBC na sua conta Bittrex primeiro](#Withdrawing-LBC-to-Bittrex). 
 
-## Login or create a Bittrex account
-1. Login / create a [Bittrex account](https://bittrex.com) (you may need to complete KYC)
+## Faça login ou crie uma conta Bittrex
+1. Faça login / crie uma [conta do Bittrex](https://lbry.to/bittrex) 
 
-## Depositing funds
-### Depositing USD {#Depositing-USD}
-**Please note: This is only available to some customers depending on location**
-1. [Follow this process to enable USD](https://bittrex.zendesk.com/hc/en-us/articles/360021914672-How-do-I-deposit-USD-into-Bittrex-)
-1. Click on `Holdings` from the upper right corner. 
+## Depositar fundos
+### Depositando USD {#Depositing-USD}
+**Obs: isso só está disponível para alguns clientes, dependendo da localização**
+1. [Siga este processo para habilitar USD](https://bittrex.zendesk.com/hc/en-us/articles/360021914672-How-do-I-deposit-USD-into-Bittrex-)
+1. Clique em `Holdings` no canto superior direito. 
 ![holdings](https://spee.ch/@lbrysh:6/holdings.jpg)
-1. Once the holdings page loads up, click on **Deposit by bank/wire**
-1. Click on Wire Transfer and click Get Started.
+1. Assim que a página de acervos carregar, clique em **Deposit by bank/wire**
+1. Clique em Transferência Bancária (Wire Transfer) e clique em Começar.
 ![wire-transfer](https://spee.ch/@lbrysh:6/wire-transfer.jpg)
-1. Finish the process and deposit USD into your account. 
+1. Conclua o processo e deposite USD em sua conta. 
 
-### Purchasing with a debit card from Bittrex
-**Please note: This is only available to some customers depending on location**
-1. Click on `Holdings` from the upper right corner. 
+### Compra com cartão de débito da Bittrex
+**Obs: isso só está disponível para alguns clientes, dependendo da localização**
+1. Clique em `Holdings` no canto superior direito. 
 ![holdings](https://spee.ch/@lbrysh:6/holdings.jpg)
 1. Once the holdings page loads up, click on **Deposit by credit/debit card**.
 ![card](https://spee.ch/@lbrysh:6/cards.jpg)
