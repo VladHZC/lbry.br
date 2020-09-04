@@ -1,0 +1,82 @@
+# O que é o LBRY exatamente? É um protocolo, um aplicativo, um site ou uma empresa?
+
+[« Voltar para o FAQ ](https://lbry.tv/@LBRYBR:d)
+
+Para a maioria dos usuários, o LBRY será um local onde eles poderão encontrar ótimos vídeos, músicas, e-books e muito mais: imagine uma vasta biblioteca digital disponível em todos os seus dispositivos. Mas, sob o capô, o LBRY tem muitos componentes trabalhando juntos.
+
+![](./What is LBRY exactly_ Is it a protocol, an app, a website, or a company__files/v1-og.png)
+
+Em primeiro lugar, o LBRY é um novo protocolo que permite a qualquer pessoa criar aplicativos que interajam com o conteúdo digital na rede LBRY. Os aplicativos criados usando o protocolo permitem que os criadores enviem seu trabalho para a rede de hosts LBRY (como o BitTorrent), para definir um preço por stream ou download (como o iTunes) ou distribuí-lo gratuitamente (como o YouTube sem anúncios). O trabalho que você publica pode ser vídeos, arquivos de áudio, documentos ou qualquer outro tipo de arquivo.
+
+
+Sites tradicionais de vídeo (ou outro conteúdo), como YouTube, Instagram e Spotify, armazenam seus envios em seus servidores e permitem que os espectadores os baixem. Eles também permitem que os criadores de conteúdo ganhem dinheiro com publicidade ou outros mecanismos. No entanto, existem algumas desvantagens conhecidas, especialmente para pessoas cujo material é percebido como não sendo favorável ao anunciante.
+
+O LBRY pretende ser uma alternativa a esses sites, permitindo que os editores e seus fãs interajam diretamente, sem o risco de desmonetização ou outras interferências.
+
+O que torna tudo isso possível é a tecnologia blockchain desenvolvida pelo criador do Bitcoin.
+
+Você precisa entender isso para usar e aproveitar o LBRY? Não. Mas isso importa para os usuários? Sim!
+
+## Por que construir um protocolo?
+
+Construir  [protocolos, não platformas](https://lbry.com/news/blockchain-is-love-blockchain-is-life), é a melhor maneira de garantir uma internet livre, segura e aberta. Quase todo gigante da technologia é um serviço centralizado que vende informações pessoais de seus usuários e atenção para os anunciantes. Eles gastam muito dinheiro perseguindo informações do produto deles  (sua informação pessoal e tempo/atenção), mas no final das contas, usuários (você) oferecem essa informação gratuitamente em troca de acessar essas plataformas.
+
+Achamos que os usuários devem possuir seu conteúdo (e sua privacidade) em vez de entregá-lo a um gigante corporativo e a seus colegas de publicidade. Se você acha que somos paranóicos, existem dezenas de exemplos de  [companias que abusam dos usuários](https://lbry.com/news/why-do-tech-giants-abuse-their-users)  e agindo contra seus interesses. 
+
+## Comunidade guiada por Open Source (cód. aberto)
+
+Tudo o que é construído para alimentar o LBRY é de código aberto e projetado para ser controlado pelo público em geral. Centenas de desenvolvedores contribuíram para as principais bases de código que alimentam o LBRY e milhares de outros membros da comunidade ajudaram de outras maneiras: recrutando criadores, trasuzindo textos, fazendo ferramentas gráficas e muito mais.
+
+Embora exista uma empresa por trás da LBRY chamada _LBRY Inc._, tentamos amarrar nossas próprias mãos o máximo possível, para que nunca possamos nos tornar um megacorp maligna e sem face. Ao tornar tudo de código aberto e padronizado, qualquer pessoa no mundo pode copiar o código do LBRY com tudo intacto (ou criar uma versão nova e melhor).
+
+## Como e por que o LBRY usa blockchain
+
+A tecnologia Blockchain, como Bitcoin e LBRY, permite que as pessoas criem bancos de dados que nenhuma entidade isolada controla.
+
+Com o Bitcoin, quando você envia dinheiro para alguém, seu computador transmite "ei, a pessoa com esse segredo específico (uma chave privada) está enviando dinheiro para essa pessoa ali" para a rede, O algoritmo omining garante que todos concordem que, de fato, você enviou esse dinheiro, para que seu saldo diminua e o do destinatário suba. Para saber mais, confira este [video irado](https://beta.lbry.tv/@3Blue1Brown:b/ever-wonder-how-bitcoin-and-other:1)  by LBRYian @3Blue1Brown.
+
+No LBRY, o mesmo mecanismo é usado para armazenar um índice de qual conteúdo está disponível e como baixá-lo, bem como transações financeiras (como dicas e compras de conteúdo pago) usando o LBC (Créditos LBRY) que é tipo BTC. Quando um criador publica algo no LBRY, uma entrada é feita na blockchain do LBRY. Você pode pensar nisso como um anúncio:  _ei pessoal, eu publiquei esse arquivo, aqui estão algumas informações sobre ele e instruções de como baixá-lo da rede P2P_.
+
+Pelas mesmas razões que ninguém pode impedir que uma transação de Bitcoin ocorra, ninguém pode impedir que uma transação (como uma publicação ou uma dica) apareça em the LBRY blockchain. Existem outros sites que compartilham seu conteúdo de uma rede de dados ponto a ponto. No entanto, o índice de conteúdo disponível ainda é centralizado e pode ser facilmente censurado.
+
+## Incrível ! Quanto custa?
+
+É grátis !!!
+
+[Baixe o app do LBRY](https://lbry.com/get?auto=1)  ou visite [lbry.tv](https://lbry.tv/)  para mais liberdade de conteúdo. Então  [Nos diga o que achou](https://chat.lbry.com/)!.
+
+Viu um erro?  [Edite essa página no GitHub](https://github.com/lbryio/lbry.com/tree/master/content/faq/what-is-lbry.md).
+
+-   EMPRESA
+-   [About](https://lbry.com/what "Wonder what LBRY is about? Find out here!")
+-   [Blog](https://lbry.com/news "The latest news from LBRY HQ")
+-   [Roadmap](https://lbry.com/roadmap "Where are we going? Good thing we have a map!")
+-   [Shop](https://shop.lbry.com/ "LBRY swag for purchase")
+-   [Team](https://lbry.com/team "The people who bring LBRY to YOU")
+
+-   USE LBRY
+-   [lbry.tv](https://lbry.tv/ "Try lbry.tv")
+-   [Android](https://lbry.com/android "Get LBRY on Android")
+-   [Linux](https://lbry.com/linux "Get LBRY on Linux")
+-   [iOS](https://lbry.com/ios "Get LBRY on iOS")
+-   [macOS](https://lbry.com/osx "Get LBRY macOS")
+-   [Windows](https://lbry.com/windows "Get LBRY on Windows")
+
+-   SOCIAL
+-   [Chat on Discord](https://chat.lbry.com/ "LBRY's Discord server")
+-   [Twitter](https://twitter.com/lbryio "LBRY's Twitter page")
+-   [Reddit](https://reddit.com/r/lbry "LBRY's subreddit")
+-   [Facebook](https://facebook.com/lbryio "LBRY's Facebook page")
+-   [Telegram](https://t.me/lbryofficial "LBRY's Telegram channel")
+
+-   SUPORTE
+-   [hello@lbry.com](mailto:hello@lbry.com "Send us an email!")
+-   [Contact](https://lbry.com/contact "Send us an email!")
+-   [Privacy](https://lbry.com/privacypolicy "View our Privacy Policy")
+-   [TOS](https://lbry.com/termsofservice "Terms of Service")
+-   [FAQ](https://lbry.com/faq "Frequently Asked Questions about LBRY")
+
+----------
+
+-   [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag)
+
