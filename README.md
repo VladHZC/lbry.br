@@ -32,6 +32,7 @@
 |Guanumby|No Sync|[30](https://open.lbry.com/@GuanumbyGameNet:8?r=FkXuBKiec1TjrEKg6zLLWoD2Gq1pYpgk)|--------|Gaming
 |Wilbor|No sync|[9]()|--------|Art
 |NikolasD|No sync|[9]()|------|Art
+|Julha| No sync|----|-----|Art
 
 PS: The channels marked with (*) were the last youtube syncs I did
 PS2: Of course there is a lot more, those are related to me in someway so I try to keep track, some of then are more active than other, and a few have serious difficult adapting to LBRY and I try to help as much as I can
