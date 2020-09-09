@@ -1,0 +1,72 @@
+# Como funciona a nomeclatura de links no LBRY? Por que você atribuir nomes de link de maneira diferente dos domínios da Internet?
+
+## O problema
+
+Antes de falar sobre como funcionam os nomes (URLs) no LBRY, é importante entender o problema. O que é um sistema de nomenclatura e por que temos um?
+
+Os nomes existem para que possamos mapear uma palavra ou termo legível e compreensível para outro mais difícil de lembrar, como número ou ID. No DNS tradicional DNS (sistema de nome de domínio), os nomes são mapeados para um endereço IP numérico. No LBRY, os nomes são mapeados para um ID único e permanente que representa uma parte do conteúdo digital e / ou uma identidade do editor.
+
+Projetar um sistema de nomenclatura que funcione bem e atribua nomes de maneira justa é bastante difícil!  O domínio do LBRY costumava ser lbry.io por muito tempo, ao invés de lbry.com. Is it because lbry.com is providing some unique service? É porque a lbry.com está fornecendo um serviço exclusivo? Não! É porque um invasor estava de posse dele, simplesmente tentando leiloar o nome de domínio para o maior lance em demanda. Tivemos que negociar por meses (e pagar muito $$$) para obter o domínio lbry.com e não queremos que os usuários LBRY passem por uma experiência semelhante ... preferimos deixar isso para incentivos e regras fixas de protocolo.  
+
+O sistema tradicional possui várias outras falhas. É centralizado e um mecanismo de censura, pois os titulares não detêm a verdadeira propriedade de seu domínio, apenas o provedor de nível superior. Domínios de nível superior (como .io) também são arbitrários e amplamente ilógicos (se projetarmos o sistema de nomes de domínio novamente, será que realmente queremos adicionar um ".com" arbitrário ao URL de maior prestígio para uma determinada palavra-chave? O LBRY tem algo a ver com o * I * ndian * O * cean?). Por fim, além de incentivar o mau comportamento, a estrutura de taxa fixa dos domínios impede o bom comportamento daqueles que estão com preços acessíveis.
+
+Queríamos um sistema que:
+
+- Permite que uma única palavra seja mapeada diretamente para uma parte do conteúdo, sem outra extensão ou modificador.
+- Permite que os criadores adquiram um URL e o possuam permanentemente e para sempre, sem taxas contínuas.
+- Permite que vários pedaços de conteúdo sejam localizados em uma única palavra-chave, mantendo os URLs tão curtos e memoráveis ​​quanto possível.
+- Previne que criadores sejam extorquidos.
+
+Após consultas significativas com criadores, consumidores, economistas, cientistas da computação e muito mais, desenvolvemos o sistema de nomenclatura LBRY.
+
+## Como os URLs funcionam no LBRY
+
+Em primeiro lugar **é absolutamente possível possuir e controlar um URL para sempre**.
+
+o LBRY, uma entrada de URL é chamada de _claim_. Para simplificar, uma **reivindicação** (claim em português)  pode ser considerada como consistindo em:
+
+- O nome (uma sequência de caracteres escolhida pelo criador)
+- O número de créditos
+- Dados adicionais relacionados ao conteúdo e/ou identidade do editor
+
+As **claims** no LBRY não são consumíveis. Quando você designa vários créditos em uma reclamação, nada é perdido ou destruído além da taxa de transação relativamente mínima. A qualquer momento, os créditos atribuídos a uma **claim** podem ser usados ​​para outra finalidade, recuperados ou enviados para outro lugar. Quando isso acontece, a reivindicação não é mais considerada válida.
+
+LBRY oferece suporte a vários tipos de resolução de URL:
+
+| Tipo                  | Sintaxe                        | Resolução                 |
+| --------------------- | ----------------------------- | -------------------------- |
+| **Permanente** | `lbry://<name>#<claim_id>` | Este URL consiste em um nome e um ID atribuído aleatoriamente. Este é permanentemente propriedade e controlado pelo editor. URLs permanentes suportam correspondência parcial de ID de ordem temporal, portanto, podem ser bastante curtos (ex. lbry://name#8 ou lbry://name#ab) |
+| **Curto** | `lbry://<name>#<short_claim_id>` | Este URL consiste em um nome e um ou mais caracteres (o primeiro a chegar primeiro serve para preservar a exclusividade) do URL permanente. Este é permanentemente propriedade e controlado pelo editor. Se um URL mais curto for disponibilizado, a próxima reclamação na linha assumirá sua resolução.
+| **Comunidade** | `lbry://<name>` | De todas as reivindicações chamadas `<name>`, isso retorna a publicação com a maioria dos créditos comprometidos com ela, ão apenas pelo editor, mas por toda a comunidade. Esses URLs não são permanentes ou de propriedade de alguém, mas controlados pela própria comunidade, permitindo que a resolução seja definida pelo que a comunidade considera mais apropriado. |
+| **Canal** | `lbry://<@channel_name>` | Um URL correspondente a uma identidade do editor. Isso depende da identidade de um editor específico e de suas publicações. URLs de canal podem ser especificados com ou sem o modificador `#`. Uma URL não modificada retorna o canal determinado pela comunidade.
+| **Assinado** | `lbry://<@channel_name>/<example>` | O trecho de conteúdo publicado com o nome `<example>` dentro do canal de `<@channel_name>`.
+
+## Aprendizado
+
+1. **Os nomes não são comprados, apenas reservados - nenhum crédito é perdido, apenas colocado em depósito..** Se você vencer o leilão de um nome, seus créditos serão mantidos com esse nome até que você decida retirá-los (a qualquer momento que desejar). Você não está comprando o nome de ninguém e ninguém lucra com a transferência de nomes. É apenas um teste de quem está disposto a depositar mais créditos em um nome. A única desvantagem é que você não pode gastar os créditos em conteúdo ou retirá-los enquanto estiverem na reserva.
+
+2. **Quanto mais tempo um nome de comunidade é mantido, mais tempo dura.** URLs controlados pela comunidade não mudam instantaneamente se mais créditos forem designados - especialmente se você os segurou por um tempo. Para cada mês que um nome é controlado, 1 dia é adicionado ao período de espera, por um máximo de 7 dias (após 7 meses).
+
+3. **Todo mundo tem voz.** e você afirma lbry://bestfilmever e seu filme faz jus ao hype, gorjetas e compras são uma grande força para manter seu conteúdo lá. Se a comunidade achar que uma resolução de URL está incorreta, eles podem se unir para alterá-la a qualquer momento. Esta é uma força poderosa que mantém os maus atores à distância e que já se provou útil.
+
+4. ** Os nomes são mais como termos de pesquisa. ** Quando um usuário pesquisa a rede LBRY ou um mecanismo de recomendação sugere conteúdo, todas as declarações válidas são consideradas. Não ter o URL da comunidade para o seu conteúdo não significa que ninguém o verá. Muitas partes diferentes de conteúdo com o mesmo nome podem ser exibidas quando os usuários procuram por conteúdo na rede.
+
+Para obter mais detalhes sobre reivindicações, consulte o [claimtrie implementation](https://lbry.tech/spec#claimtrie)
+
+## Experimentação
+
+Quer você esteja apaixonado por este design ou não, provavelmente concordará que é diferente de tudo que já vimos antes.
+
+O resultado final é que a LBRY se dedica a fornecer verdadeira liberdade de conteúdo. Queremos fornecer o melhor método do mundo para que criadores e consumidores compartilhem e monetizem conteúdo digital sem intermediários. Acontece que pensamos que este é um método superior às alternativas, mas também não somos dogmáticos sobre isso.
+
+Estamos tentando resolver um problema muito difícil de uma maneira nova e temos o compromisso de dar uma chance a este sistema. Mais de 4.000.000 de peças de conteúdo em, funcionou perfeitamente. Mas se alguma vez víssemos esse sistema prejudicar em vez de ajudar, não hesitaríamos em mudá-lo.
+
+## Relevância na pesquisa e tendências/categorias principais
+
+Aumentar valor atrelado ao seu conteúdo aumenta o potencial de receber gorjetas sobre seu conteúdo/canal e aumenta sua relevância nos resultados de pesquisa e descoberta por meio das categorias Trending e Top no LBRY. Os cálculos de tendências baseiam-se em quanto o lance da LBC aumentou por meio de gorjetas e de apoio, em comparação com todas as outras reivindicações de nomes da LBRY.. [Saiba Mais](https://lbry.com/faq/trending).
+
+## Participe da comunidade Brasil/Portugal
+
+[![](https://img.lbry.to/files/hyserm.png)](https://discord.gg/s7Wygjm)
+
+Viu um erro?  [Edite essa página no GitHub](https://github.com/lbryio/lbry.com/tree/master/content/faq/what-is-lbry.md).
