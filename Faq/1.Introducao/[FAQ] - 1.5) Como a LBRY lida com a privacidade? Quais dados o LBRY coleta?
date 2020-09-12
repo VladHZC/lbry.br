@@ -1,0 +1,90 @@
+# Como a LBRY lida com a privacidade? Quais dados o LBRY coleta?
+---
+
+A LBRY leva a privacidade a sério e considera cuidadosamente os dados que coleta.
+
+Nossa política de privacidade oficial pode ser vista em https://lbry.com/privacypolicy. Este artigo de FAQ tenta explicar nossa política em inglês simples, mas não deve ser considerado um documento oficial de política.
+
+A LBRY coleta dados por vários motivos, incluindo, mas não se limitando a:
+
+- depurar (debugging) e melhorar o protocolo
+- entender como nossos usuários interagem com nossos aplicativos
+- previnir fraude no nosso programa de recompensas
+- prover estatísticas para os criadores de conteúdo
+
+Prometemos manter todos os dados coletados seguros e nunca compartilhar informações pessoais e privadas com ninguém fora da LBRY Inc. Você deve ter mais de 13 anos de idade para fazer login no aplicativo Desktop ou criar uma conta lbry.tv.
+
+Os usuários também podem [escolher usar o LBRY anonimamente](#anonymous) no entanto alguns features, como o [Program de recompensas do LBRY](), não estará disponível.
+
+Além disso, mesmo quando não estamos enviando dados para nós, o uso de LBRY (fora de lbry.tv) normalmente envolve a participação na rede LBRY ponto a ponto e certas informações, como seu endereço IP, provavelmente serão expostas de qualquer maneira. 
+
+## Que tipo de dados são coletados e onde?
+---
+Como um primeiro usuário de aplicativos LBRY e [lbry.tv](https://lbry.tv), você tem a opção de fornecer um endereço de e-mail para criar uma conta LBRY. Isso permite uma experiência de usuário mais rica, habilitando serviços como [Recompensas LBRY](https://open.lbry.com/@LBRYBR:d/FAQ-Rewards:6?r=DTJCdL9sY1oWDrBQVyKwXTYDbqYQWsyk), notificações por e-mail e sincronização de conta (ou seja, assinaturas e preferências do usuário) em vários dispositivos/plataformas. Se você não fornecer um e-mail, os dados coletados não poderão ser associados à sua identidade, mas ainda poderão estar vinculados a outras informações do sistema, como endereços IP.
+
+Consulte as tabelas a seguir para obter uma análise dos tipos de dados coletados e aplicativos associados.
+
+Escopo de dados | Depende de   | Opcional     | Visibilidade       | Detalhes
+:------------ |:------------ |:------------ |:---------------- |:------------ |
+Endereço de e-mail | | Sim, se e-mail fornecido | LBRY | Usado para criar e autenticar uma conta LBRY
+Preferências de usuário | Email | Sim, se e-mail fornecido | LBRY | Assinaturas, tags, canais bloqueados e configurações de aplicativos
+Informações do sistema | | Sim, se Compartilhar dados de diagnóstico habilitado | LBRY | Sistema operacional, versões de aplicativo / SDK e identificador de instalação exclusivo
+Verificação de identidade | Email | Sim, se estiver passando pela aprovação manual | LBRY | Número de telefone, impressão digital do cartão de crédito (Stripe) e identificadores de serviços de terceiros (ou seja, YouTube, GitHub)
+Google Analytics | | Apenas Android | LBRY | O comportamento do usuário e as interações nos aplicativos são rastreados anonimamente. Não está vinculado a uma conta LBRY.
+Análise de acesso ao conteúdo | Email | Sim, se e-mail fornecido | LBRY | Visualizações de conteúdo usadas para recompensas e análises internas
+Endereços IP | | Não, use VPN para proteger | Todos | Todos os acessos aos serviços LBRY são registrados para evitar abusos e cumprir os requisitos legais
+Metadados do Blockchain | Email | Sim, se e-mail fornecido | LBRY | Os endereços da carteira e as transações relacionadas aos prêmios são registrados para evitar abusos e cumprir os requisitos fiscais (acima do limite anual de US $ 600)
+Transações blockchain | | Não, não crie transações | Todos | Quaisquer ações realizadas que usem créditos LBRY e criem uma transação permanente no blockchain. Não vinculado a quaisquer dados de conta/usuário.
+
+Escopo de dados| LBRY Desktop App | lbry.tv (Web) | LBRY Android App | LBRY SDK |
+:------------ |:------------ |:------------ | :-------------| :-------------|
+Endereço de e-mail | sim | sim | sim | não |
+Preferências de usuário | sim | sim | sim | não |
+Informações do Sistema | sim | no | sim | sim |
+Verificação de identidade | sim | sim | sim | não |
+Google Analytics | opt-in | no | sim | não |
+Analytics de acesso de conteúdo | sim | sim | sim | sim |
+Endereços de IP | sim | sim | sim | opt-out |
+Blockchain metadata | sim | sim | sim | não |
+Transações da Blockchain | sim | sim | sim | sim |
+
+## Qual é a diferença entre dados de conta e carteiras de criptomoeda?
+
+Cada aplicativo LBRY instalável também contém uma carteira de criptomoeda que é armazenada localmente no respectivo dispositivo. A carteira permite que você armazene Créditos LBRY e os use para fazer [transações (gastar, publicar, comprar e dar gorjeta) na rede](https://lbry.com/faq/transaction-types) . As informações privadas, necessárias para executar essas ações, estão sob o controle exclusivo do usuário.
+
+O LBRY fornece um mecanismo de sincronização e backup de carteira para permitir acesso contínuo a vários dispositivos. O serviço de backup garante que uma carteira possa ser recuperada pelo usuário por meio de sua conta LBRY, caso perca o acesso à sua cópia local. Qualquer armazenamento e troca de dados da carteira tem criptografia de ponta a ponta, e o usuário também pode fornecer uma senha de criptografia adicional, se desejar.
+
+LBRY does provide a wallet syncing and backup mechanism to allow seamless access across multiple devices. The backup service ensures that a wallet can be retrieved by the user through their LBRY account in case they lose access to their local copy. Any storage and exchange of wallet data has end to end encryption, and the user can also provide an additional encryption password if desired.
+
+## Como faço para usar o LBRY anonimamente?
+
+Para usar o LBRY em particular, recomendamos o aplicativo LBRY Desktop. Por padrão, o aplicativo LBRY Desktop não compartilhará dados de conta ou analíticos com a LBRY, Inc. ou terceiros sem ser especificamente habilitado.
+
+Para uma experiência privada ao máximo, você também deve usar uma Rede Privada Virtual (VPN) para proteger seu endereço IP. Isso permitirá que você use recursos como recuperação de dados de conteúdo, publicação, compra, gorjetas e outras transações anonimamente. Dependendo dos recursos da VPN e da configuração da rede, hospedar dados atualmente pode não ser possível, mas esta é uma área de desenvolvimento ativo.
+
+Note-se que contas que estiverem usando LBRY anonimamente ou privada que não são elegíveis para [as recompensas lbry.tv](https://lbry.com/faq/rewards) .
+
+## Onde a conta e os dados analíticos são armazenados?
+
+A LBRY armazena os dados coletados em seus próprios bancos de dados protegidos e garante que apenas funcionários autorizados tenham acesso a esses dados. Os dados do Google Analytics são anônimos e protegidos pelo Google. Em breve estaremos nos afastando completamente do GA - apenas o aplicativo Android está habilitado.
+
+## Que informações são compartilhadas com outras pessoas na rede?
+
+Similarmente a outros protocolos ponto a ponto como o BitTorrent, os usuários na rede compartilham mensagens (ou seja, anunciando a disponibilidade do conteúdo) e criam conexões diretas para trocar dados (ou seja, downloads/uploads). Embora a LBRY não colete essas informações, outros participantes da rede podem observar e coletar as informações.
+
+
+## Posso usar uma VPN para usar e acessar o LBRY?
+
+Sim, uma VPN pode ser usada com todos os serviços LBRY. Os principais recursos funcionarão sem problemas, mas os usuários VPN podem não ser elegíveis para o [LBRY Rewards](https://lbry.com/faq/rewards) para evitar abusos.
+
+
+## Algum dado adicional é coletado se eu participar do programa YouTube Sync?
+Ao autenticar no [YouTube Sync program](https://lbry.com/youtube), você fornece prova de propriedade do canal que nos permite vincular seu canal do YouTube a uma conta LBRY. As informações sobre sua conta são armazenadas e mantidas pela LBRY, Inc.
+
+## Participe da comunidade Brasil/Portugal
+
+[![](https://img.lbry.to/files/hyserm.png)](https://discord.gg/s7Wygjm)
+
+Viu um erro? [Edite essa página no GitHub](https://github.com/VladHZC/lbry.br/new/master/Faq/1.Introducao).
+
+
