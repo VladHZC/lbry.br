@@ -1,0 +1,150 @@
+# 2.1) LBRY Desktop e lbry.tv básico
+
+[«Voltar para FAQ](https://open.lbry.com/@LBRYBR:d/LBRY-FAQ:b?r=5NU7AH75eTByrbfnjE2HMX9GxqrFxiwY)
+
+O aplicativo LBRY Desktop e lbry.tv permitem que você visualize conteúdo, carregue sua mídia digital gratuitamente ou a um preço definido, dê gorjeta para seus criadores favoritos, envie/receba Créditos LBRY (LBC) e ganhe créditos por meio do [LBRY Rewards](https://open.lbry.com/@LBRYBR:d/FAQ-Rewards:6?r=EiCHQvXMva9ekaDTyTeTkMaryn7bahCM) . Os aplicativos e a versão da web são executados no [protocolo LBRY,](https://lbry.com/faq/what-is-lbry) que é uma rede de pagamento e compartilhamento de arquivos descentralizada e ponto a ponto protegida pela tecnologia blockchain.
+
+O objetivo desta FAQ é responder a perguntas sobre algumas das funcionalidades básicas disponíveis no LBRY Desktop, LBRY mobile e lbry.tv. Consulte nossas [outras entradas de FAQ](https://open.lbry.com/@LBRYBR:d/LBRY-FAQ:b?r=EiCHQvXMva9ekaDTyTeTkMaryn7bahCM) para obter informações adicionais.
+
+**Anotações importantes:**
+
+1.  Por padrão, o LBRY Desktop salva qualquer conteúdo que você visualiza no disco, veja a [explicação](https://lbry.com/faq/lbry-basics#disk) . Você pode modificar esse comportamento na págin em  **_Configurações_** .
+    
+2.  As recompensas são totalmente opcionais, você pode usar o LBRY sem elas. Você precisará adquirir o LBC para publicar, mas a visualização é gratuita.
+    
+3.  Para editar seu canal, clique em **Canais** na barra lateral direita e selecione o canal desejado. Você verá um botão de edição próximo ao nome do canal. Se estiver usando **[spee.ch](https://spee.ch/)** uploads para miniaturas/capas, certifique-se de clicar no botão de upload após selecionar os arquivos.
+    
+4.  Para sincronizar saldos e preferências entre os dispositivos, certifique-se de que a **_sincronização_** esteja ativada na página **_Configurações_** .
+    
+
+## Qual é o propósito de ter meu e-mail conectado ao LBRY?
+
+Os e-mails são coletados para autenticar uma conta lbry.tv e [identificar os](https://lbry.com/faq/identity-requirements) usuários de maneira [exclusiva](https://lbry.com/faq/identity-requirements) para que possam se qualificar para o [LBRY Rewards](https://lbry.com/faq/lbry-basics#rewards) , sincronizar os dados da conta e se manterem atualizados sobre os últimos acontecimentos do LBRY. Consulte nosso [FAQ de privacidade](https://lbry.com/faq/privacy-and-data) para obter mais informações sobre quais dados são coletados.
+
+## Como altero meu e-mail conectado com LBRY?
+
+Se você precisar alterar seu endereço de e-mail LBRY ou sair, consulte [este guia](https://lbry.com/faq/how-to-change-email) . Se você entrar com um novo e-mail e precisar transferir seu status de verificação e conta (somente usuários do lbry.tv), você precisará entrar em [contato conosco](https://lbry.com/faq/support) para vincular suas contas.
+
+## E se eu quiser executar o LBRY em vários computadores ou contas do Windows diferentes?
+
+Se você deseja executar o LBRY em vários PCs ou outras plataformas como o Android, pode entrar com o mesmo e-mail em todos os dispositivos. Os dados e preferências de sua conta serão sincronizados, desde que estejam habilitados nas Configurações.
+
+## O que são LBRY Rewards?
+
+[LBRY Rewards](https://open.lbry.com/@LBRYBR:d/FAQ-Rewards:6?r=EiCHQvXMva9ekaDTyTeTkMaryn7bahCM) são usados ​​para distribuir LBRY Credits (LBC) para usuários novos e existentes, permitindo que explorem funções de aplicativos e concluam tarefas que geram LBC como recompensa. Para ser elegível para prêmios, você precisa [verificar sua identidade,](https://lbry.com/faq/identity-requirements) que o identifica exclusivamente como um usuário LBRY. Nem todos os usuários ou regiões podem se qualificar para recompensas por vários motivos, obrigado por respeitar isso. LBRY pode ser usado sem o recurso de recompensas.
+
+## O que é uma carteira e como posso encontrá-la?
+
+Uma carteira é uma carteira digital segura usada para armazenar, enviar e receber criptomoedas como Créditos LBRY (LBC). O LBRY vem com sua própria carteira e é armazenado localmente no seu dispositivo e em nenhum outro lugar, a menos que você habilite o recurso Sincronizar. **Se você não habilitar a sincronização, é fundamental [fazer backup dos dados da carteira](https://lbry.com/faq/how-to-backup-wallet) para o caso de perder o acesso ao PC ou precisar [migrar](https://lbry.com/faq/backup-data) para um novo.**
+
+Para encontrar sua carteira no LBRY:
+
+-   no **aplicativo Desktop** ou em **lbry.tv** clique em seu Saldo LBC mostrado no canto superior direito e deve mostrar a página de visão geral da carteira que mostra seu saldo, envio / recebimento e transações recentes (o saldo pode aparecer como **`0 LBC`**se você não tivesse créditos ou como **`Wallet`**se a opção **"Ocultar saldo da carteira no cabeçalho"** estivesse selecionada na página Configurações).
+    
+-   no **aplicativo móvel** , você precisa abrir o menu principal e depois escolher a `Wallet`opção, onde pode ver o endereço da sua carteira, ver as transações recentes, enviar créditos e sincronizar a sua carteira.
+    
+
+A carteira LBRY é diferente de outras criptomoedas porque também armazena os metadados do seu conteúdo compartilhado na forma de [declarações](https://lbry.com/faq/naming) ao usar os [recursos de publicação](https://lbry.com/faq/how-to-publish) . As [transações de carteira](https://lbry.com/faq/transaction-types) relacionadas a reivindicações garantem que o blockchain identifique exclusivamente seu conteúdo e que o pagamento / gorjetas possam ser encaminhados de forma adequada.
+
+## Onde encontro o endereço da minha carteira LBC?
+
+Para encontrar o endereço da sua carteira no LBRY:
+
+-   no **aplicativo Desktop** ou em **lbry.tv** , clique em seu Saldo LBC mostrado no canto superior direito (Saldo pode aparecer como `0 LBC`se você não tivesse créditos) e deve mostrar a página de visão geral da carteira que mostra seu saldo, envio / recebimento e recente transações. Para ver o endereço da sua carteira, clique no `Receive`botão.
+    
+-   no **aplicativo móvel** , você precisa acessar o menu principal do aplicativo e depois escolher a `Wallet`opção onde poderá ver o endereço da sua carteira.
+    
+
+![carteira](https://spee.ch/@lbryfaqsc:7/acces-wallet-menu.jpeg)
+
+Sua carteira contém vários endereços de recebimento (somente usuários de lbry.tv não verão esta opção), e novos podem ser gerados clicando em "Obter novo endereço". O saldo da sua carteira é o valor total de todos os LBC disponíveis em cada um dos seus endereços.
+
+## Onde posso conseguir mais créditos LBRY?
+
+Você pode [ganhar mais LBC](https://lbry.com/faq/earn-credits) ou [comprar LBC em bolsas](https://open.lbry.com/@LBRYBR:d/2.7.Compra-e-venda-de-LBC-nas-exchanges:2?r=EiCHQvXMva9ekaDTyTeTkMaryn7bahCM) .
+
+## Onde todos os dados do meu LBRY Desktop são armazenados?
+
+Consulte a [página de perguntas frequentes dos diretórios LBRY](https://lbry.com/faq/lbry-directories) para obter mais informações sobre onde os dados LBRY estão armazenados. Além dos dados internos do LBRY, você também pode configurar o diretório de download do LBRY por meio da opção no topo da página Configurações (ícone de engrenagem no canto superior direito).
+
+## Por que o conteúdo é baixado para o meu PC mesmo quando eu faço streaming?
+
+LBRY é um protocolo descentralizado ponto a ponto, o que significa que não há servidores centralizados ou uma única entidade armazenando todos os arquivos (como o YouTube). Em vez disso, os dados são armazenados no computador de cada participante localmente (semelhante ao BitTorrent). Quando você faz streaming ou download, o LBRY armazena o conteúdo em blocos criptografados chamados [arquivos de blobs](https://lbry.com/faq/lbry-directories) e o distribui para toda a rede para que outros também possam fazer o download de você. Ele também armazenará o arquivo concluído na pasta de downloads. Você pode configurar essas opções de armazenamento na página Configurações.
+
+## Eu quero compartilhar meu conteúdo, por onde eu começo?
+
+Consulte nosso [guia de publicação](https://lbry.com/faq/how-to-publish) como referência para ajudá-lo no processo de publicação.
+
+## Onde posso ver meus downloads?
+
+-   No **aplicativo Desktop,** escolha a `Library`opção na barra lateral direita.
+-   Em **lbry.tv** esta opção ainda não está disponível.
+-   No **aplicativo móvel** abra o menu principal do aplicativo e escolha a `Library`opção.
+
+## Como posso deletar meus downloads?
+
+Acesse a seção Biblioteca conforme mencionado antes e selecione o item que deseja excluir. Após a página do conteúdo ser aberta, clique no ícone da lixeira localizado abaixo do conteúdo principal publicado.
+
+No **aplicativo Desktop** , se você deseja excluir mais rapidamente ou todos os arquivos da pasta de download, abra a pasta com um explorador de arquivos, selecione os arquivos e exclua-os.
+
+## Onde posso ver minhas publicações?
+
+-   No **aplicativo Desktop** ou no **lbry.tv,** clique no ícone do usuário (o ícone do meio no canto superior direito) e escolha a **`Publishes`**opção.
+
+![Publicar](https://spee.ch/@lbryfaqsc:7/LBRY-user-menu.jpeg)
+
+-   No **aplicativo móvel** abra o menu principal do aplicativo e escolha a **`Publishes`**opção.
+
+## Como posso saber se estou compartilhando conteúdo e ajudando a rede LBRY adequadamente?
+
+A maneira mais fácil de confirmar se você está compartilhando corretamente é determinar se a porta usada para propagação (3333) está aberta para o resto da rede LBRY. Para fazer isso, digite 3333 [nesta ferramenta de verificação de porta](http://www.canyouseeme.org/) e verifique o resultado. Se mostrar "Sucesso", está tudo pronto. Se aparecer "Erro", pode ser necessário verificar as configurações do roteador para as opções UPnP (definir para habilitar) ou encaminhar a porta TCP 3333 e a porta UDP 4444 para o computador local que executa o LBRY Desktop. As configurações de firewall e NAT também podem afetar a disponibilidade dessas portas. Além disso, ao acessar a página da ferramenta de verificação, verifique se no navegador não há nenhum plug-in ou extensão ativa que atue como VPN. Nesse caso, o resultado pode ser falso e, de fato, seu aplicativo Desktop pode ter acesso a essas portas, mas o navegador não.
+
+## Como posso pesquisar conteúdo no LBRY?
+
+Pesquisar no LBRY é tão fácil quanto digitar seu (s) termo (s) de pesquisa na barra de endereço na parte superior e pressionar Enter. Ao pressionar enter, você receberá o URL direto e os resultados da pesquisa.
+
+![Procurar](https://spee.ch/@lbryfaqsc:7/LBRY-searchbox.jpg)
+
+## Como posso me inscrever e ver meus canais favoritos?
+
+Você pode se inscrever em um canal clicando no botão Seguir na página inicial, página do canal ou páginas de conteúdo.
+
+![Segue](https://spee.ch/@lbryfaqsc:7/LBRY-follow-favorite-channel.jpg)
+
+-   Para gerenciar os canais que você segue, basta clicar na opção **Seguir** na barra lateral direita da janela do aplicativo e visualizar todos os canais seguidos em uma página. Em seguida, clique na opção **Gerenciar** no canto superior direito da lista de canais exibida. Em seguida, você pode optar por deixar de seguir qualquer canal que desejar.
+
+![Gerenciar canais](https://spee.ch/@lbryfaqsc:7/LBRY-manage-channels.jpg)
+
+-   Para gerenciar as tags que você segue, basta clicar na opção **Suas tags** na barra lateral direita da janela do aplicativo e visualizar os resultados das tags selecionadas. Para modificar as tags atualmente seguidas, clique na opção **Gerenciar** no canto superior direito da lista de canais exibida. Depois, você pode modificar as tags que deseja seguir.
+
+![Gerenciar tags](https://spee.ch/@lbryfaqsc:7/LBRY-manage-tags.jpg)
+
+## Como posso bloquear canais?
+
+Você pode bloquear um canal clicando no botão **Bloquear** na página inicial, página do canal ou páginas de conteúdo.
+
+## O conteúdo falha consistentemente ao transmitir ou baixar. O que devo fazer?
+
+Por favor veja nosso  [guia de streaming](https://lbry.com/faq/unable-to-stream)  se você não consegue fazer download ou transmitir conteúdo de forma consistente no LBRY. Se você estiver tendo problemas intermitentes com falhas de download, tente fechar o LBRY Desktop completamente (incluindo encerrar o processo "lbrynet.exe" no gerenciador de tarefas) e reiniciando o download.
+
+## Alguns arquivos não abrem no LBRY Desktop ou lbry.tv. O que está acontecendo?
+
+Atualmente, o player no aplicativo LBRY oferece suporte a vídeos MP4, arquivos MP3, imagens, imagens GIF, HTML e arquivos de texto. Mesmo que não suporte outros formatos de dentro do aplicativo ou lbry.tv, os arquivos ainda podem ser externamente aberto ao usar o aplicativo Desktop clicando no ícone **Abrir arquivo** ou navegando até o arquivo clicando no caminho do arquivo **Baixado para** na página de conteúdo.
+
+![Abrir](https://spee.ch/@lbryfaqsc:7/LBRY-open-file-externally.jpg)
+
+## Como começo a solucionar os problemas sozinho?
+
+Por favor, consulte [este guia](https://lbry.com/faq/how-to-find-lbry-log-file) sobre como localizar seus arquivos de log LBRY. Eles podem fornecer informações adicionais para solucionar problemas ou para fornecer à [equipe de suporte](https://lbry.com/faq/support) .
+
+## Preciso de ajuda adicional. Onde posso encontrá-lo?
+
+Verifique nossas [outras entradas de FAQ](https://lbry.com/faq) para obter mais informações. Estamos sempre aqui para ajudar e sinta-se à vontade para [entrar](https://lbry.com/faq/support) em [contato conosco](https://lbry.com/faq/support) .
+
+Vê um erro? [Edite esta página no GitHub](https://github.com/lbryio/lbry.com/tree/master/content/faq/lbry-basics.md) .
+
+
+## Participe da comunidade  Brasil/Portugal
+----------------
+[![](https://img.lbry.to/files/hyserm.png)](https://discord.gg/s7Wygjm)
+
