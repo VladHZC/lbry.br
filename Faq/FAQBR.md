@@ -3,7 +3,7 @@
 ## 1) Introdução ao LBRY 
 ---
 
-<iframe src="lbry://@LBRYBR#d/Librasry#e"></iframe>
+<iframe id="lbry-iframe" width="560" height="315" src="https://lbry.tv/$/embed/Librasry/eab5ff9d90b82ed6462cff76283f488104e70352?r=CJ7qFSjiY3ERc9Gj5pRPR3iqey7DdF74" allowfullscreen></iframe>
 
 ---
 -   [1.1) O que é o LBRY ? É um protocolo, um aplicativo, ou uma empresa?](https://open.lbry.com/@LBRYBR:d/O-que-é-o-LBRY-exatamente_:c?r=7aC1P1fh3wXJnV5Aa1HYzrNNnbiHbt5Z)
